@@ -31,8 +31,8 @@ Prepared a case study on cybercrime and created a prevention checklist for stude
 
 ## Useful Links
 - **GitHub Profile:** [Add your GitHub profile link here]
-- **LinkedIn Profile:** [Add your LinkedIn profile link here]
-- **Google Form Link:** [Paste your Google Form link here]
+- **LinkedIn Profile:** [https://www.linkedin.com/in/karthik-kumar-redddy-lingala-5aa1573a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- **Google Form Link:** [https://docs.google.com/forms/d/e/1FAIpQLScofOhLk2iWLNIsGxz6fiBb9tD_9Qt61vGUMe5ZLbN-Uf6fFg/viewform]
 
 ## Repository Structure
 - `task-1-presentation/` → Infographic
