@@ -30,7 +30,7 @@ Drafted two professional emails and created a social media do’s and don’ts c
 Prepared a case study on cybercrime and created a prevention checklist for students.
 
 ## Useful Links
-- **GitHub Profile:** [Add your GitHub profile link here]
+- **GitHub Profile:** [https://github.com/karthiklingal]
 - **LinkedIn Profile:** [https://www.linkedin.com/in/karthik-kumar-redddy-lingala-5aa1573a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
 - **Google Form Link:** [https://docs.google.com/forms/d/e/1FAIpQLScofOhLk2iWLNIsGxz6fiBb9tD_9Qt61vGUMe5ZLbN-Uf6fFg/viewform]
 
